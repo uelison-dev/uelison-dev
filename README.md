@@ -19,6 +19,16 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelison-dev&layout=compact&theme=tokyonight&hide=ipynb" alt="Linguagens mais usadas" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 📫 Vamos Conectar?
 - **LinkedIn:** [Seu_Link_Do_LinkedIn_Aqui](https://linkedin.com/in/seu-perfil)
 - **E-mail:** contatouelisondev@gmail.com
