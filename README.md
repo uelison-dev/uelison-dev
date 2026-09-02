@@ -1,4 +1,4 @@
-# Olá, mundo! 🚀 Eu sou o Uelison Ferreira (Dev Thrus)
+# Olá, mundo! 🚀 Eu sou o Uelison Ferreira
 
 Formado em **Análise e Desenvolvimento de Sistemas**, movido pela curiosidade e apaixonado por transformar lógica em soluções reais. Atualmente, estou focado em construir minha base sólida para ingressar no mercado como desenvolvedor.
 
