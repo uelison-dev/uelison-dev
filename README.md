@@ -22,6 +22,11 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
 ### 📊 Progresso e Consistência
 
 <p align="center">
+  <!-- Contador de Visitantes do Perfil -->
+  <img src="https://komarev.com/ghpvc/?username=uelison-dev&color=7aa2f7&style=flat-square&label=VISITANTES" alt="Contador de Visitas" />
+</p>
+
+<p align="center">
   <!-- Painel de Foco de Estudos -->
   <img src="https://img.shields.io/badge/Foco_Principal-Python_%26_Django-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Buscando_1º_Emprego_Dev-green?style=for-the-badge" />
