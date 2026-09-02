@@ -32,9 +32,16 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Visão Geral de Atividade
+---
+
+### 🏆 Conquistas e Métricas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uelison-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uelison-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelison-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens" />
 </p>
 
 ---
