@@ -19,14 +19,17 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
 
 ---
 
-### 📊 Estatísticas e Constância
+### 📊 Progresso e Consistência
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Painel de Foco de Estudos -->
+  <img src="https://img.shields.io/badge/Foco_Principal-Python_%26_Django-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Buscando_1º_Emprego_Dev-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelison-dev&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens mais usadas" />
+  <!-- Contador de Streak seguro que funciona em qualquer perfil -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
