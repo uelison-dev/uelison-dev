@@ -34,13 +34,6 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
 
 ---
 
-### 🐍 O Rastro dos meus Commits
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uelison-dev/uelison-dev/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
----
-
 ### 📫 Vamos Conectar?
 - **LinkedIn:** [Seu_Link_Do_LinkedIn_Aqui](https://linkedin.com/in/seu-perfil)
 - **E-mail:** contatouelisondev@gmail.com
