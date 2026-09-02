@@ -32,6 +32,11 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 📈 Visão Geral de Atividade
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uelison-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
+</p>
+
 ---
 
 ### 📫 Vamos Conectar?
