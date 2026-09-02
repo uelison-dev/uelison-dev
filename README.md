@@ -32,6 +32,12 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uelison-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 📊 Atividade e Animação de Commits
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uelison-dev&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Gráfico de Atividade de Commits" />
+</p>
+
 ---
 
 ### 📫 Vamos Conectar?
