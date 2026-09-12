@@ -40,5 +40,5 @@ Acredito que a tecnologia tem o poder de resolver problemas complexos e criar no
 ---
 
 ### 📫 Vamos Conectar?
-- **LinkedIn:** [Seu_Link_Do_LinkedIn_Aqui](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** https://www.linkedin.com/in/uelison-ferreira-b744b9436/
 - **E-mail:** contatouelisondev@gmail.com
