@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! Eu sou o Uelison Ferreira
 
-### 💻 Desenvolvedor | Python • Django • SQL • Git • GitHub
+### 💻 Desenvolvedor Full Stack Júnior | Python | Django | SQL | HTML5 | CSS3 | Bootstrap | Git | GitHub
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e resolução de problemas.
 
